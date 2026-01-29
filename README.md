@@ -46,4 +46,4 @@ I act in a dual capacity to drive engineering and product strategy for high-traf
 * **Scalability:** Architected .NET 8 Web APIs supporting real-time publishing for major media outlets.
 * **Leadership:** Leading the technical roadmap for **Walla! Sport**, managing sprint cycles for video streaming and match data feeds.
 
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) • [Portfolio](https://YOUR_WEBSITE) • [Email](mailto:barbar6132@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/bar-yael/) • [Portfolio](https://bar-fs-dev.netlify.app/) • [Email](mailto:barbar6132@gmail.com)
