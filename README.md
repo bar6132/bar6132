@@ -35,9 +35,10 @@ I act in a dual capacity to drive engineering and product strategy for high-traf
 * **Core Logic:** Uses LLMs to analyze documentation and generate production-ready project structures.
 * **Integration:** Built with LangChain and vector databases for context-aware generation.
 
-#### 📰 **[InsightStream AI] Real-Time Intelligence**
-*Real-time news intelligence platform processing high-velocity data streams.*
-* **Focus:** Leveraging AI agents to aggregate and analyze news feeds instantly.
+#### 📰 **[InsightStream AI] NewsPulse — AI-Powered Microservices Aggregator**
+* Microservices-based news platform built with FastAPI, Flask, and Dapr.
+* Features Gemini AI for content summarization,
+* RabbitMQ for async messaging, and multi-channel notifications (Email/Telegram).
 
 ---
 
