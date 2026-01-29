@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Bar Yael 👋
 
-<!--
-**bar6132/bar6132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack Engineer & Technical Product Manager
+I build high-performance distributed systems and AI-driven applications. With a background as an F-15 Crew Chief in the IAF, I bring a high-pressure, detail-oriented approach to software engineering.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on **InsightStream AI** and **StorageX**.
+- 🤖 Deeply interested in **Generative AI, RAG systems, and Computer Vision**.
+- 🛠️ Tech Stack: **Python, TypeScript, Vue 3, Redis, Elasticsearch, & PostgreSQL**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 My Recent Projects
+* **StorageX:** Distributed video transcoding system integrated with Redis and AI features.
+* **Project Maker Magician:** A RAG system that transforms requirements into boilerplate code.
+
