@@ -15,7 +15,7 @@ I act in a dual capacity to drive engineering and product strategy for high-traf
 | Domain | Stack & Tools |
 | :--- | :--- |
 | **Backend & API** | **C# / .NET 8**, **Python** (FastAPI, Django, Flask), Node.js (NestJS), Microservices, gRPC |
-| **Frontend** | **Next.js 14** (App Router), React.js, TypeScript, Tailwind CSS, Redux Toolkit |
+| **Frontend** | **Next.js**, React.js, TypeScript, Tailwind CSS, Redux Toolkit |
 | **Data & Storage** | PostgreSQL, MongoDB, **Redis**, SQL Server, ElasticSearch, MinIO |
 | **DevOps & Cloud** | **Docker**, Kubernetes, AWS, **RabbitMQ**, Dapr, GitHub Actions (CI/CD) |
 | **AI & ML** | **LangChain**, OpenAI/Gemini APIs, Hugging Face, OpenCV, RAG Systems |
